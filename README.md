@@ -3,7 +3,7 @@ Deployed on HuggingFace : https://huggingface.co/spaces/coderr8/Satellite-Segmen
 
 > Deep learning pipeline for pixel-wise land cover classification from aerial/satellite imagery using a custom U-Net architecture trained on the Dubai dataset.
 
----
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/63dc036a-2e6a-42d5-8e77-8ea9fb3a85de" />
 
 ## 📌 Overview
 
